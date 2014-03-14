@@ -1,0 +1,6 @@
+vim
+===
+
+vimsrc
+colors
+dict
